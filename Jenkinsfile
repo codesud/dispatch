@@ -2,4 +2,4 @@
 
 env.COMPONENT="dispatch"
 env.APP_TYPE="golang"
-golang()
+python()
