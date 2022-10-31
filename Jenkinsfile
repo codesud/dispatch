@@ -2,4 +2,5 @@
 
 env.COMPONENT="dispatch"
 env.APP_TYPE="golang"
-python()
+// python()
+docker()
